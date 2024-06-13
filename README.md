@@ -1,6 +1,6 @@
 
-## Olá! Eu sou Lucas Adorno dos Santos 👋
-Hello! I'm Lucas Adorno dos Santos 👋
+## Olá! 👋
+Hello! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-adorno-dos-santos-25b2a2164/)
 
